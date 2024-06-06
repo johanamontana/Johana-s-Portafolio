@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: image-set(url(./Resources/Imágenes/collage.PNG));
+    background-image: image-set(url(../Resources/Imágenes/collage.png));
     background-size: cover;
 }
 
